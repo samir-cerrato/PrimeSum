@@ -12,3 +12,8 @@ Sample Input:
 The output should be sent to console/stdout/System.out.
 Sample Output:
 The sum of the primes is 13
+
+A test file is provided with sample inputs.
+
+To run the program, in the terminal input the following command:
+python3 primesum.py < A1_primesum.in
